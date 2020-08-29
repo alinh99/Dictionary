@@ -1,5 +1,5 @@
 # Dictionary
-    _ Description: This is an English-Vienamese offline Dictionary with 1000 words built with Android. 
+    _ Description: This is an English-Vienamese offline Dictionary with 1000 words built in Android Studio. 
                    In this one, users can look up meanings of English words, search words, show and clear searched words.
                    Moreover, users can also practice to speak with text to speak API. 
                    and repeat again with speaking to text in order to be aware of users' level through out calculating points.
