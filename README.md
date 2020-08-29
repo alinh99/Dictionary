@@ -20,9 +20,12 @@
         - Step 2: If users would like see the definition of the word, click on items of list view. In this page, users can also use text to speak feature after click on the icon
         - Step 3: If users would like to search words, go back to the home page, fill words in a search bar is on the top of the list.
         - Step 4: If users would like to see searched words, click on the menu in the left corner of the app, and choose "Your Words".
-        - Step 5: If users would like to practice, click on the menu in the left corner of the app, and choose "Practice". In this page, users can select word or sentence to improve speak ability.
+        - Step 5: If users would like to practice, click on the menu in the left corner of the app, and choose "Practice". In this page, users can select word or sentence to                         improve speak ability.
         - Step 6: In order to exprience dark mode, click on the settings icon, click on "Dark Mode", the same with light mode.
         - Step 7: If users would like to clear searched words, click on "Clear History" in the same page.
         - Step 8: With share feature, click on "Share" in this one.
         - Step 9: Go back to the home page, and click on the exit icon to quit the application.
+        
+    _ If you have a problem, contact to me in facbook link : https://www.facebook.com/alinh99
+    _ Project link: https://github.com/alinh99/Dictionary
         
